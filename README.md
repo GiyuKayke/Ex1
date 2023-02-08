@@ -5,7 +5,8 @@ Um site com as seguintes funções:
   <li>mudança de tema do site com horário</li>
   <li>Imagem no centro conforme o horário</li>
 </ol>
-Acesso: <a href="ex1-one.vercel.app">Visite o exercício aqui</a>
+
+<strong> Link para um teste no vercel: </strong><a href="https://ex1-one.vercel.app/" target="_top">Acesso </a> 
 <br>
 Durante o arquivo main.js, temos uma variável de hora automática que busca o hor
 <br>
