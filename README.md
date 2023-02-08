@@ -5,6 +5,7 @@ Um site com as seguintes funções:
   <li>mudança de tema do site com horário</li>
   <li>Imagem no centro conforme o horário</li>
 </ol>
+Acesso: <a href="">Visite as W3Schools!</a>
 <br>
 Durante o arquivo main.js, temos uma variável de hora automática que busca o hor
 <br>
